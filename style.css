@@ -40,7 +40,7 @@ nav li:hover{
 .section2{
     margin: 0;
     padding: 0;
-    background-image: url('./images/mainbg.jpeg");
+    background-image: url("images/mainbg.jpeg");
     width: 100%;
     height: 100vh;
     position: relative;
