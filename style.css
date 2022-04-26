@@ -40,7 +40,7 @@ nav li:hover{
 .section2{
     margin: 0;
     padding: 0;
-    background-image: url(/images/mainbg.jpeg);
+    background-image: url('./images/mainbg.jpeg");
     width: 100%;
     height: 100vh;
     position: relative;
@@ -119,7 +119,7 @@ a{
     margin-bottom: 40px;
 }
 #entertainment{
-    background-image:url('/images/section-bg.jpeg');
+    background-image:url('images/section-bg.jpeg');
     background-repeat: no-repeat;
     background-position: bottom;
     background-size: cover;
