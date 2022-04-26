@@ -1,0 +1,91 @@
+.navbar{
+    height: 40px;
+    min-width: 100%;
+    overflow: hidden;
+    background-color: #333;
+    position: fixed;
+    top: 0;
+    width: 100%;      
+}
+.min-h-screen{
+    min-height: 100vh;
+}
+.bg-red{
+    background-color: red;
+}
+.mx-auto{
+    margin-left: auto;
+    margin-right: auto;
+}
+.flex{
+    display: flex;
+}
+.flex-col{
+    flex-direction: column;
+}
+.items-center{
+    align-items: center;
+}
+.justify-center{
+    justify-content: center;
+}
+.justify-between{
+    justify-content:space-between;
+}
+.font-bold{
+    font-weight:900;
+}
+
+.my-1{
+    margin-top: 13px;
+    margin-bottom: 13px;
+}
+.my-2{
+    margin-top: 26px;
+    margin-bottom: 26px;
+}
+.px-2{
+    padding-left: 13px;
+    padding-right: 13px;
+}
+.text-green{
+    color: rgb(73 183 84);
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+.btn{
+    color: white;
+    background-color: #b90415;
+    border-radius: 6px;
+    cursor: pointer;
+
+    padding: 1rem;
+    display: inline-block;
+    margin: 0 0 16px;
+}
+.btn-blue{
+    border: 2px solid #103063;
+    color: white;
+    background-color: #103063;
+    border-radius: 2px;
+    cursor: pointer;
+    padding: 1rem;
+    display: inline-block;
+    margin: 20px 16px;
+}
+.text-center{
+    text-align: center;
+}
+.highlighted{
+    font-weight: bolder;
+    font-size: 1.2rem;
+}
+.bg-light1{
+    background-color: #fff;
+}
+.headblack{
+    color: black;
+}
+.section{
+    padding: 2rem 0;
+}
